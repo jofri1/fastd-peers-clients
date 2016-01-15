@@ -11,3 +11,5 @@ Inhalt der Datei ist nur eine Zeile:
 > key "\<public-fastd-key\>";
 
 Es könnten auch Kommentarzeilen beginnen mit # eingefügt werden, z.B. für den Nodenamen, meshpartner oder die Koordinaten.
+
+Zusätzlich existiert ein Ordner blacklist, wie der Name vermuten lässt schaltet er nicht für ein bestimmtes Segment frei, sonder dient lediglich dazu Knoten fürs default Segment zu sperren.
