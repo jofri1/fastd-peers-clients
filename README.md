@@ -9,6 +9,7 @@ Ob dies praktikabel ist wird sich zeigen. Möglicherweise sollte auf den Nodenam
 
 Inhalt der Datei ist nur eine Zeile:
 > key "\<public-fastd-key\>";
+
 zu ermitteln z.B. über SSH auf dem Router mit:
     # /etc/init.d/fastd show_key mesh_vpn
     18fa75d1808692f04770bedf30c42dac24585d331560c545d70dd27f22a05648
