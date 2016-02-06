@@ -1,0 +1,4 @@
+key "307fee86b86a7c5f7e3e7285359048ee722f312b09b3b2b1f435093fe5b462a5";
+# Reumontstraße ist eigentlich Segment 2, aber dieser Node steht
+# anscheinend trotz des Namens und der Geokoordinaten nicht dort und
+# mesht mit Nodes in Segment 3, z.B. ffac-30b5c2ee49ec
